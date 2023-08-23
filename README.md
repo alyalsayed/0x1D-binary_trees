@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Aly Alsayed - [Github](hhttps://github.com/alyalsayed) / [Twitter](https://twitter.com/AlyAlsayed123)  
+Aly Alsayed - [Github](https://github.com/alyalsayed) / [Twitter](https://twitter.com/AlyAlsayed123)  
 
 ## License
 Public Domain. No copy write protection. 
